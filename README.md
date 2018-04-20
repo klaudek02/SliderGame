@@ -1,5 +1,5 @@
 # SliderGame
-future updates:
-  -congrats after winning game
-  -adding your own image
+future updates:</br>
+  -congrats after winning game </br>
+  -adding your own image</br>
   -resizable
